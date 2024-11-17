@@ -13,6 +13,7 @@
 </div>
 
 ### Features
+## By Mudassoir Alam
 
 VisionCamera is a powerful, high-performance Camera library for React Native. It features:
 
